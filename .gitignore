@@ -1,5 +1,5 @@
 .idea/
 *.model
 *.vocab
-
+__pycache__
 
