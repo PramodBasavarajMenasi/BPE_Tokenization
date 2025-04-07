@@ -2,4 +2,7 @@
 *.model
 *.vocab
 __pycache__
+.DS_Store
+models/**/*
+*.pytest_cache
 
